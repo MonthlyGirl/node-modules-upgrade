@@ -1,1 +1,1 @@
-# 批量更新某个仓库的 package.json 的业务包版本号
+# 批量更新某个仓库的 package.json 的某个依赖
